@@ -1,5 +1,12 @@
 # Changelog
 
+## 4.44.444-beta.12 - 2024-05-26
+
+- Requires `barrelstrength/sprout:4.2.7`
+- See Mailer Module [release notes][#427mailer]
+
+[#427mailer]: https://github.com/barrelstrength/craft-sprout/blob/4.2.7/CHANGELOG/CHANGELOG-MAILER.md
+
 ## 4.44.444-beta.11 - 2024-05-24
 
 - Requires `barrelstrength/sprout:4.2.6`
