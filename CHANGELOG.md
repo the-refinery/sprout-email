@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.45.0 - 2024-05-30
+
+- Updates version number
+
 ## 4.44.444-beta.12 - 2024-05-26
 
 - Requires `barrelstrength/sprout:4.2.7`
