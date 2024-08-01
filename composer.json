@@ -4,7 +4,7 @@
     "version": "4.45.0",
     "license": "proprietary",
     "require": {
-        "barrelstrength/sprout": "^4.2.7",
+        "barrelstrength/sprout": "dev-main",
         "craftcms/cms": "^4.3.0"
     },
     "autoload": {
@@ -20,5 +20,11 @@
         "developerEmail": "support@barrelstrengthdesign.com",
         "documentationUrl": "https://barrelstrengthdesign.com",
         "class": "BarrelStrength\\SproutEmail\\SproutEmail"
-    }
+    },
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/the-refinery/sprout.git"
+        }
+    ],
 }
